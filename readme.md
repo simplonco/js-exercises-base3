@@ -1,4 +1,4 @@
-# Exercices JavaScript - Partie 2
+# Exercices JavaScript - Partie 3
 
 **IMPORTANT**
 Toutes les ressources aux exercices seront fourni quand cela sera nécessaire.  
