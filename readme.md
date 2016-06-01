@@ -9,3 +9,6 @@ Dans le fichier HTML fourni, au survol de l'image ajouter une bordure de 3px rou
 
 ##Exercice 2
 Dans le fichier HTML fourni, faire afficher ou masquer le texte en fonction de l'ancre.
+
+##Exercice 3
+Dans le fichier HTML fourni, changer la couleur du texte en fonction du bouton choisi.
